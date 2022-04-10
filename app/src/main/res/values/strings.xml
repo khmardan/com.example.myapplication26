@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">My Application26</string>
+    <string name="android_class">Android Class</string>
+    <string name="mentor_name">khashayar</string>
+    <string name="khashayar">khashayar</string>
+    <string name="metor">metor</string>
+    <string name="khashayar_mardan">khashayar_mardan</string>
+    <string name="edit_profile">edit_profile</string>
+    <string name="to_do">to_do</string>
+    <string name="edit_profile1">edit profile</string>
+    <string name="to_do1">to do</string>
+    <string name="string_layouts">string/layouts</string>
+    <string name="string_layouts">string/layouts</string>
+    <string name="string_layouts">string/layouts</string>
+    <string name="string_layouts">string/layouts</string>
+    <string name="string_layouts">string/layouts</string>
+    <string name="string_layouts">string/layouts</string>
+    <string name="string_layouts">string/layouts</string>
+    <string name="internet" />
+    <string name="arch_string" />
+    <string name="themes" />
+    <string name="class_name" />
+    <string name="mentor">mentor</string>
+    <string name="Internet">internet</string>
 </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guideline_dashboard_start" type="id" />
+    <item name="backB" type="id" />
+    <item name="logoutB" type="id" />
+    <item name="guideline_dashboard_top" type="id" />
+</resources>
